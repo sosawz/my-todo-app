@@ -23,8 +23,8 @@
 
 1. Clone โปรเจกต์นี้
    ```bash
-   git clone https://github.com/yourusername/my-async-todo.git
-   cd my-async-todo
+   git clone https://github.com/sosawz/my-todo-app.git
+   cd my-todo-app
    ```
 
 2. ติดตั้ง dependencies
